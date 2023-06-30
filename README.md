@@ -1,4 +1,5 @@
-# stock_market_analysis
+# stock_market_analysis_TCS
+
 "Stock Market Analysis Project: Harnessing data and advanced analytics to drive informed investment decisions and maximize returns."
 
 
